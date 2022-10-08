@@ -1,8 +1,8 @@
 # Exercise 8 - Viewing changes before committing
 
-1. Ensure your working directory is clean
+1. Ensure your working directory is clean     =>git status
 
-2. Add text to any one of your files
+2. Add text to any one of your files  
 
 3. Delete different text from another of your files
 
