@@ -10,7 +10,7 @@
 3. Check your git status, and paste the contents here
 
         git status
-
+===============================
 On branch master
 No commits yet
 Untracked files:
