@@ -14,13 +14,13 @@
 
 6. Does the following command return anything?
 
-        git diff --staged    ==> No <==
-
+        git diff --staged  
+Ans: No
 7. Add one of your changed files to the index
 
         git commit add <changed file>
 
-* I can not use >git commit add <changed file>, I use >git commit -i <fruits.txt>
+Ans: I can not use >git commit add <changed file>, I use >git commit -i <fruits.txt>
 
 8. What do these commands show?
 
@@ -40,7 +40,7 @@
 
         git diff
         git diff --staged
-After I change every modified files, both list commands only come back to command prompt
+Ans:After I change every modified files, both list commands only come back to command prompt
 
 11. Commit the changes
     now my working directory is clean and commit, it cloud be that I use wrong command at Q7

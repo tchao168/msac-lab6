@@ -35,10 +35,10 @@
         git status
 
 10. Which of the steps could be omitted?
-        step 7
+  Ans:      step 7
 
 11. Why might it be a bad idea to omit them?
-        it can make sure that you add file in
+   Ans:     it can make sure that you add file in
 
 12. Repeat the above steps to add a new file with the name `vegetables.txt`
 

@@ -51,4 +51,5 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 12. How can you make a single file show in both red and green in the output of `git status`?
 
-Sorry, no answer for this one
+git config color.status.changed red
+git config color.status.untracked green
