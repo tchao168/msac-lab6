@@ -3,7 +3,7 @@
 1. Make a commit with a multi line commit message
    (leaving an empty line after the first line)
 
-   > git commit filename -m"The changes are
+   > git commit filename -m "The changes are
                         -
                         - fix some spelling problem
                         - fix 2n section

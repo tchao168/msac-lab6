@@ -41,7 +41,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 8. How can you commit just one of the changed files?
    you have use  > git add furniture.txt
 
-9. Check your `git status`
+9. Check your `git status` 
 
 10. What does red text mean in the output of `git status`?
     being modified
