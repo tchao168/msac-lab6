@@ -41,4 +41,4 @@ Ans: When execute this command with exercise01.md hash, it display this file con
 
 
 10. Do the trees you looked at have any matching hashes listed?
-Ans: No, suppose it is random create
+Ans: Can not tell, but definite yes, because ost of files start with exercise num, probably need hash cracker program to solve. 
